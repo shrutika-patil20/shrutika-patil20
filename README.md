@@ -2,7 +2,7 @@
 
 My name is **Shrutika Patil**, I am passionate about innovating, designing, and experimenting with new technologies. 
 
-- 🔭 I’m currently working on developing AI-driven solutions and enhancing Dynamics 365 CRM and Power Platform implementations at [congruentX](https://congruentx.com).
+- 🔭 I’m currently working on developing AI-driven solutions and enhancing Dynamics 365 CRM and Power Platform implementations at [MaSyCoDa](https://masycoda.com).
 - 🌱 I’m currently exploring the latest advancements in cloud-based AI services.
 - 👯 I’m looking to collaborate on projects involving AI integration with business applications and innovative solutions using the Power Platform.
 - 😄 Pronouns: She/Her
